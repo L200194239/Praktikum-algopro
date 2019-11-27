@@ -1,0 +1,6 @@
+file = open("latihan1.txt", "w")
+file.write("L200194239 \n")
+file.write("28012001 \n")
+file.write("Solo \n")
+file.write("Kamila Narendragharini \n")
+file.close()
